@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Review the MVC structure of Rails
+- Review the MVC structure of Rails 
 
 ## Introduction
 
